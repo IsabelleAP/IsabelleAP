@@ -3,7 +3,7 @@
 <div>    
 🎓 Estudante de biomedicina com interesse em ciência de dados <br>
 🌱 Python, R e Linux <br>
-🌎 Onde me encontrar⤵️
+🌎 Onde me encontrar⤵️ <br>
  <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/isabelleap" /></a>
 </p>
