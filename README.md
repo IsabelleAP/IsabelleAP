@@ -5,7 +5,7 @@
 🌱 Python, R e Linux <br>
 🌎 Onde me encontrar⤵️ <br>
  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/isabelleap" /></a>
+<br> <br>
   <a href="https://www.linkedin.com/in/isabelleap" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 </div>
