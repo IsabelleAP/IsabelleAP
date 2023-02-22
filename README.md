@@ -1,7 +1,7 @@
 ## Olá, eu sou a Isabelle e este é o meu GitHub.
 <p> 
 <div>    
-🎓 Estudante de biomedicina com interesse em ciência de dados <br>
+🎓 Estudante de biomedicina com interesse em bioinformática <br>
 🌱 Python, R e Linux <br>
 🌎 Onde me encontrar⤵️ <br>
  <a href="#" alt="Linkedin">
