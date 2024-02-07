@@ -1,7 +1,7 @@
 ## Olá, eu sou a Isabelle e este é o meu GitHub.
 <p> 
 <div>    
-🎓 Biomédica e mestranda em bioinformática <br>
+🎓 Biomédica e mestranda em bioinformática estrutural <br>
 🌱 Python e Linux <br>
 🌎 Onde me encontrar⤵️ <br>
  <a href="#" alt="Linkedin">
