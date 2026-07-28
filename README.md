@@ -1,7 +1,7 @@
 ## Olá, eu sou a Isabelle e este é o meu GitHub.
 <p> 
 <div>    
-🎓 Biomédica e mestre em Biossistemas <br>
+🎓 Biomédica e Mestre em Biossistemas <br>
 🌱 Python | Linux | Docker | SQL | AWS | Power BI | IA & ML <br>
 🌎 Onde me encontrar⤵️ <br>
  <a href="#" alt="Linkedin">
